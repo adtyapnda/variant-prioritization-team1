@@ -45,7 +45,7 @@ Extra Akita utilities: [Fudenberg-Research-Group/akita_utils](https://github.com
 | Aditya | [@adtyapnda](https://github.com/adtyapnda) |
 | Bhumika | [@BhumikaMansinghka](https://github.com/BhumikaMansinghka) |
 | Utkarsh | [@utk1017](https://github.com/utk1017) |
-| Kamakshi | *to be added* |
+| Kamakshi | [kams19-ops](https://github.com/kams19-ops) |
 
 ---
 
