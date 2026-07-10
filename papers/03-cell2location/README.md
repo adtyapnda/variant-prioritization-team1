@@ -1,4 +1,4 @@
-**cell2location — Maps fine-grained cell types in spatial transcriptomics**
+# **cell2location — Maps fine-grained cell types in spatial transcriptomics**
 
 **Assigned to: Kamakshi**
 
