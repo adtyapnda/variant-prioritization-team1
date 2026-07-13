@@ -4,7 +4,8 @@ A group project exploring **deep learning methods in genomics**. Each member tak
 research paper, sets up the authors' original code, **runs the model on the example / demo
 data, and captures the output** (variant calls, basecalls, cell maps, contact maps, etc.).
 Paper #5 (the Eraslan et al. review) is also part of Aditya's work — it surveys the
-field rather than shipping one tool, so the exact approach is still being figured out.
+field rather than shipping one tool, so the approach is to demonstrate one representative
+method end to end and connect it to variant prioritization.
 
 ---
 
@@ -32,7 +33,7 @@ For each paper:
 | 2 | Chiron: translating nanopore raw signal directly into nucleotide sequence using deep learning | Utkarsh | [haotianteng/Chiron](https://github.com/haotianteng/Chiron) | Old TF1 env (tricky) |
 | 3 | Cell2location maps fine-grained cell types in spatial transcriptomics | Kamakshi | [BayraktarLab/cell2location](https://github.com/BayraktarLab/cell2location) | Colab (demo data) |
 | 4 | Predicting 3D genome folding from DNA sequence with **Akita** | Aditya | [calico/basenji → akita](https://github.com/calico/basenji/tree/master/manuscripts/akita) | Colab, inference |
-| 5 | Deep learning: new computational modelling techniques for genomics *(review paper)* | Aditya | — (surveys many tools) | TBD — we'll figure it out |
+| 5 | Deep learning: new computational modelling techniques for genomics *(review paper)* | Aditya | — (surveys many tools) | Colab — representative demo |
 
 Extra Akita utilities: [Fudenberg-Research-Group/akita_utils](https://github.com/Fudenberg-Research-Group/akita_utils)
 
